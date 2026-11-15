@@ -1,6 +1,6 @@
 # Illustration Logo Skill
 
-`illustration-logo-skill` is an Agent Skill for creating and refining square illustration marks. It supports a calm youthful over-the-shoulder portrait, clean cobalt-blue linework, a pale blue rounded-square frame, and a quiet white field.
+`illustration-logo-skill` is an Agent Skill for creating and refining square illustration marks. It supports calm youthful face outlines, head-and-shoulders portraits, and compact half-body figures with clean graphic linework, varied flat palettes, and one restrained thematic cue inside a rounded-square frame.
 
 The skill is designed for compatible AI agents that can generate raster images. It keeps the artwork simple enough to remain legible at small icon sizes while leaving room for controlled creative variation.
 
@@ -10,8 +10,10 @@ The skill is designed for compatible AI agents that can generate raster images. 
 
 - Three deliberate illustration directions before generation
 - Six independent candidates by default, labeled `A1` through `C2`
-- A youthful over-the-shoulder portrait with long flowing hair
-- Cobalt portrait lines, a pale sky-blue rounded-square frame, and a white or near-white field
+- Face outlines, head-and-shoulders portraits, and compact half-body figures rather than one fixed pose
+- Warm, botanical, sunset, citrus, and rose-dusk palette families instead of an all-blue batch
+- One optional thematic cue for reading, making, music, study, nature, travel, or reflection
+- A light rounded-square frame and white, cream, blush, ivory, or other quiet field chosen to support the palette
 - Broad, confident curves that survive reduction to `32 × 32`
 - Quiet editorial warmth instead of photorealistic, glossy, or ornamental rendering
 - Separate full-resolution square assets rather than contact sheets
@@ -23,7 +25,7 @@ The skill is designed for compatible AI agents that can generate raster images. 
 Ask a compatible AI agent for an illustration direction, for example:
 
 ```text
-Create six illustration candidates that preserve the current over-the-shoulder portrait, cobalt linework, pale blue rounded-square frame, and white field, while simplifying the hair and face for 32 × 32 legibility.
+Create six illustration candidates that preserve the current clean line language and 32 × 32 legibility, while mixing face outlines, head-and-shoulders portraits, and compact half-body figures across warm paper, botanical, sunset, citrus studio, and rose-dusk palettes with small thematic cues. Do not make every candidate blue or use the same crop.
 ```
 
 When the request does not provide enough product context, the skill reads the available workspace context first and asks one consolidated round of questions only when needed. It then proposes three concise directions and waits for approval unless the request already authorizes the batch.
