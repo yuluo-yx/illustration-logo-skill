@@ -4,7 +4,40 @@
 
 The skill is designed for compatible AI agents that can generate raster images. It keeps the artwork simple enough to remain legible at small icon sizes while leaving room for controlled creative variation.
 
-![Illustration reference](assets/illustration-reference.png)
+## Logo wall
+
+One illustration language, six personalities: bright citrus and coral alongside botanical greens, warm terracotta, and muted plum. Each image links to its full-resolution artwork.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="assets/illustration-reference.png"><img src="assets/illustration-reference.png" alt="Original blue line portrait with a light blue rounded frame" width="240"></a><br>
+      <strong>Original Blue</strong><br>Clean lines · Cool blue
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/citrus-studio.png"><img src="assets/citrus-studio.png" alt="Short-haired portrait in charcoal, tangerine, and lemon" width="240"></a><br>
+      <strong>Citrus Studio</strong><br>Tangerine · Lemon · Warm white
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/coral-pop.png"><img src="assets/coral-pop.png" alt="Ponytail portrait in deep wine and vivid coral" width="240"></a><br>
+      <strong>Coral Pop</strong><br>Wine · Coral · Blush
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="assets/olive-retro.png"><img src="assets/olive-retro.png" alt="Botanical bob-haired portrait in forest green, olive, and mustard" width="240"></a><br>
+      <strong>Olive Retro</strong><br>Forest · Olive · Mustard
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/terracotta-reader.png"><img src="assets/terracotta-reader.png" alt="Long-haired reader holding a book in warm terracotta and umber" width="240"></a><br>
+      <strong>Terracotta Reader</strong><br>Umber · Terracotta · Cream
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/plum-melody.png"><img src="assets/plum-melody.png" alt="Short-haired listener wearing headphones in plum and dusty mauve" width="240"></a><br>
+      <strong>Plum Melody</strong><br>Plum · Mauve · Apricot
+    </td>
+  </tr>
+</table>
 
 ## What it guides
 
@@ -39,6 +72,11 @@ SKILL.md
 README.md
 LICENSE
 assets/illustration-reference.png
+assets/citrus-studio.png
+assets/coral-pop.png
+assets/olive-retro.png
+assets/terracotta-reader.png
+assets/plum-melody.png
 ```
 
 The skill has no runtime dependencies, scripts, or external style packages.
