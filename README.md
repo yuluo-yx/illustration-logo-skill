@@ -1,5 +1,7 @@
 # Illustration Logo Skill
 
+[![LINUX DO Community](https://img.shields.io/badge/LINUX%20DO-Community-FFB003?style=flat)](https://linux.do/)
+
 `illustration-logo-skill` is an Agent Skill for creating and refining square illustration marks. It supports calm youthful face outlines, head-and-shoulders portraits, and compact half-body figures with clean graphic linework, varied flat palettes, and one restrained thematic cue inside a rounded-square frame.
 
 The skill is designed for compatible AI agents that can generate raster images. It keeps the artwork simple enough to remain legible at small icon sizes while leaving room for controlled creative variation.
